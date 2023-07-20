@@ -161,7 +161,6 @@ ___
 start the frontend by typing in the terminal:
 
 ```bash
-```Bash
 npm start
 ```
 
