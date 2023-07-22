@@ -17,8 +17,6 @@ npm start
 ```
 ## Notes
 * we used one day please read the about the project section below
-* We accidentally opened 2 other repositories by mistake, pls check only this one
-* in second day after submitting the project - the readme wasn't updated so we updated it today
 
 ## About the project
 * option for selecting multiple items in cart to delete
